@@ -1,6 +1,26 @@
 {
-  "generated" : "2026-10-13T22:05:09Z",
+  "generated" : "2026-10-14T05:40:50Z",
   "packs" : [
+    {
+      "id" : "hi-phonetic",
+      "installedSize" : 6419,
+      "minAppVersion" : "0.6.2",
+      "sha256" : "0f6391687f19ee50a221db287f8f6c280ac532f2da30558f85c175d59ebf785e",
+      "size" : 1828,
+      "upstream" : "AllInOneIME",
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/hi-phonetic-1.0.0/hi-phonetic-1.0.0.tar.xz",
+      "version" : "1.0.0"
+    },
+    {
+      "id" : "ko-hangul",
+      "installedSize" : 1420,
+      "minAppVersion" : "0.6.2",
+      "sha256" : "550ccadea23ef8e934cd6c3c936382db8fd82d4d4fcf953671192c226daf3656",
+      "size" : 740,
+      "upstream" : "AllInOneIME",
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/ko-hangul-1.0.0/ko-hangul-1.0.0.tar.xz",
+      "version" : "1.0.0"
+    },
     {
       "id" : "zh-pinyin",
       "installedSize" : 125562123,
