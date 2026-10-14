@@ -1,0 +1,16 @@
+{
+  "generated" : "2026-10-13T22:05:09Z",
+  "packs" : [
+    {
+      "id" : "zh-pinyin",
+      "installedSize" : 125562123,
+      "minAppVersion" : "0.6.2",
+      "sha256" : "04b5776f13c437dda3086964e506268e5a072ec546e9601b5fc48312b91f7b81",
+      "size" : 34290900,
+      "upstream" : "rime-ice 2026.06.30",
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/zh-pinyin-1.0.0/zh-pinyin-1.0.0.tar.xz",
+      "version" : "1.0.0"
+    }
+  ],
+  "schema" : 1
+}
