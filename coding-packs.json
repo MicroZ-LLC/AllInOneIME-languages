@@ -1,68 +1,68 @@
 {
-  "generated" : "2026-10-23T13:53:44Z",
+  "generated" : "2026-10-24T00:25:50Z",
   "packs" : [
     {
       "language" : "c",
       "minAppVersion" : "0.6.7",
-      "sha256" : "3ecec33ac24eba0bf65dc861bfddbb60def35dc8eb736e0c3fb54a7bfd3d2660",
-      "size" : 3408,
+      "sha256" : "8ac00efd1cafea2742d094bb030eda00d0930d9fb144646dcc933052d8b65280",
+      "size" : 3394,
       "title" : "C",
-      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-c-1.0.0/c-1.0.0.json",
-      "version" : "1.0.0"
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-c-1.0.1/c-1.0.1.json",
+      "version" : "1.0.1"
     },
     {
       "language" : "cpp",
       "minAppVersion" : "0.6.7",
-      "sha256" : "45833804a5b25d7171ad5a78674b663bc5f4090ad501bf27624119defaf86feb",
-      "size" : 4426,
+      "sha256" : "4bfd7392d31f73b6370b0da86174b754c789d2dc1a376d6e4158d36ca9613ceb",
+      "size" : 4412,
       "title" : "C++",
-      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-cpp-1.0.0/cpp-1.0.0.json",
-      "version" : "1.0.0"
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-cpp-1.0.1/cpp-1.0.1.json",
+      "version" : "1.0.1"
     },
     {
       "language" : "go",
       "minAppVersion" : "0.6.7",
-      "sha256" : "f7f2c16de7698cb298379d3ea8e7781cd652b0edc7ba58d79986a77d7fe19986",
-      "size" : 3060,
+      "sha256" : "977e4adbfeb323ebc52fd6d249748f37f5fa452890092b9e7b6ee521c3974f4a",
+      "size" : 3046,
       "title" : "Go",
-      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-go-1.0.0/go-1.0.0.json",
-      "version" : "1.0.0"
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-go-1.0.1/go-1.0.1.json",
+      "version" : "1.0.1"
     },
     {
       "language" : "java",
       "minAppVersion" : "0.6.7",
-      "sha256" : "63f41436ebbda0a0bba0bb64600ee3c2f05f7398a5e1b783362b417ed178f53c",
-      "size" : 3899,
+      "sha256" : "69ed7448d539acf57dad0a21f9d2ea26e646f883b16a9ee4fa7ee29b87525674",
+      "size" : 3885,
       "title" : "Java",
-      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-java-1.0.0/java-1.0.0.json",
-      "version" : "1.0.0"
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-java-1.0.1/java-1.0.1.json",
+      "version" : "1.0.1"
     },
     {
       "language" : "javascript",
       "minAppVersion" : "0.6.7",
-      "sha256" : "1ea1968f3ab9537203af430a5ade8566ddce8e5cbe19e9e389e59c4fce6d182b",
-      "size" : 1636,
+      "sha256" : "88224d7e4c90e8703ec839a1638bbb6c2a58de23a042fc187dbea22421b7747f",
+      "size" : 1654,
       "title" : "JavaScript",
-      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-javascript-1.0.1/javascript-1.0.1.json",
-      "version" : "1.0.1"
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-javascript-1.0.2/javascript-1.0.2.json",
+      "version" : "1.0.2"
     },
     {
       "language" : "python",
       "minAppVersion" : "0.6.7",
-      "sha256" : "8187c15e8ed31687986e8c78ccbcac5609b2f032e37096d0b6d3fec36cb40825",
-      "size" : 3547,
+      "sha256" : "49c23c67f26fcb855cbca52dd9802d342e99d334dcea71b625c783debe6369f9",
+      "size" : 3533,
       "title" : "Python",
-      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-python-1.0.0/python-1.0.0.json",
-      "version" : "1.0.0"
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-python-1.0.1/python-1.0.1.json",
+      "version" : "1.0.1"
     },
     {
       "language" : "typescript",
       "minAppVersion" : "0.6.7",
-      "sha256" : "df23413779dc91dda86fd94f76eab4af9bbdf9719a1e6a09a3ef00e1a128c507",
-      "size" : 3715,
+      "sha256" : "7bb4d1c911ad3d8a4664a9bd7aab44cff8c2254efac58c9b6a778d452ad0eab4",
+      "size" : 3716,
       "title" : "TypeScript",
-      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-typescript-1.0.0/typescript-1.0.0.json",
-      "version" : "1.0.0"
+      "url" : "https://github.com/MicroZ-LLC/AllInOneIME-languages/releases/download/coding-typescript-1.0.1/typescript-1.0.1.json",
+      "version" : "1.0.1"
     }
   ],
   "schema" : 1
